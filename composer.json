@@ -1,5 +1,5 @@
 {
-    "name": "cerbero/query-filters",
+    "name": "lorenzosapora/query-filters",
     "type": "library",
     "description": "Filter Laravel Eloquent models based on query parameters.",
     "keywords": [
@@ -10,7 +10,7 @@
         "filters",
         "eloquent"
     ],
-    "homepage": "https://github.com/cerbero90/query-filters",
+    "homepage": "https://github.com/lorenzosapora/query-filters",
     "license": "MIT",
     "authors": [
         {
@@ -24,7 +24,6 @@
         "php": "^5.6|^7.0",
         "illuminate/http": "^5.4|^6.0",
         "illuminate/database": "^5.4|^6.0",
-        "illuminate/console": "^5.4|^6.0|^7.0",
         "illuminate/support": "^5.4|^6.0"
     },
     "require-dev": {
