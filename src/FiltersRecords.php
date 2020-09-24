@@ -1,6 +1,6 @@
 <?php
 
-namespace Cerbero\QueryFilters;
+namespace LorenzoSapora\QueryFilters;
 
 use Illuminate\Database\Eloquent\Builder;
 
@@ -14,7 +14,7 @@ trait FiltersRecords
      * Filter records based on the given query filters
      *
      * @param \Illuminate\Database\Eloquent\Builder $query
-     * @param \Cerbero\QueryFilters\QueryFilters $filters
+     * @param \LorenzoSapora\QueryFilters\QueryFilters $filters
      * @return \Illuminate\Database\Eloquent\Builder
      */
     public function scopeFilterBy(Builder $query, QueryFilters $filters)

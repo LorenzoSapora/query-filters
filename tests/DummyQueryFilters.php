@@ -1,8 +1,8 @@
 <?php
 
-namespace Cerbero\QueryFilters;
+namespace LorenzoSapora\QueryFilters;
 
-use Cerbero\QueryFilters\QueryFilters;
+use LorenzoSapora\QueryFilters\QueryFilters;
 
 /**
  * Filter records based on query parameters.

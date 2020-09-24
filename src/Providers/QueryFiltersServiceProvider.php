@@ -1,8 +1,8 @@
 <?php
 
-namespace Cerbero\QueryFilters\Providers;
+namespace LorenzoSapora\QueryFilters\Providers;
 
-use Cerbero\QueryFilters\Console\Commands\MakeQueryFiltersCommand;
+use LorenzoSapora\QueryFilters\Console\Commands\MakeQueryFiltersCommand;
 use Illuminate\Support\ServiceProvider;
 
 /**

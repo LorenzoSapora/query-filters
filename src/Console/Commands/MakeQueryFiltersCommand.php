@@ -1,6 +1,6 @@
 <?php
 
-namespace Cerbero\QueryFilters\Console\Commands;
+namespace LorenzoSapora\QueryFilters\Console\Commands;
 
 use Illuminate\Console\GeneratorCommand;
 use Illuminate\Support\Str;

@@ -2,7 +2,7 @@
 
 namespace App\Hello\World;
 
-use Cerbero\QueryFilters\QueryFilters;
+use LorenzoSapora\QueryFilters\QueryFilters;
 
 /**
  * Filter records based on query parameters.

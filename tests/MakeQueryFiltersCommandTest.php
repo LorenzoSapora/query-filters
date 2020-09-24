@@ -1,8 +1,8 @@
 <?php
 
-namespace Cerbero\QueryFilters;
+namespace LorenzoSapora\QueryFilters;
 
-use Cerbero\QueryFilters\Providers\QueryFiltersServiceProvider;
+use LorenzoSapora\QueryFilters\Providers\QueryFiltersServiceProvider;
 use Orchestra\Testbench\TestCase;
 
 /**

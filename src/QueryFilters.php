@@ -1,6 +1,6 @@
 <?php
 
-namespace Cerbero\QueryFilters;
+namespace LorenzoSapora\QueryFilters;
 
 use Illuminate\Database\Eloquent\Builder;
 use Illuminate\Http\Request;

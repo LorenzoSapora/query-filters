@@ -1,8 +1,8 @@
 suites:
     main:
         spec_path: tests
-        namespace: Cerbero\QueryFilters
-        psr4_prefix: Cerbero\QueryFilters
+        namespace: LorenzoSapora\QueryFilters
+        psr4_prefix: LorenzoSapora\QueryFilters
 extensions:
     - PhpSpec\Extension\CodeCoverageExtension
 code_coverage:

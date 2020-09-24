@@ -34,12 +34,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Cerbero\\QueryFilters\\": "src"
+            "LorenzoSapora\\QueryFilters\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Cerbero\\QueryFilters\\": "tests"
+            "LorenzoSapora\\QueryFilters\\": "tests"
         }
     },
     "scripts": {
@@ -51,7 +51,7 @@
         },
         "laravel": {
             "providers": [
-                "Cerbero\\QueryFilters\\Providers\\QueryFiltersServiceProvider"
+                "LorenzoSapora\\QueryFilters\\Providers\\QueryFiltersServiceProvider"
             ]
         }
     }
